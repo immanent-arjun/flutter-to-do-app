@@ -1,0 +1,4 @@
+#Fri Feb 09 10:57:48 IST 2024
+base.0=/Users/sonoma/Desktop/ProjectsFlutter/to_do_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
